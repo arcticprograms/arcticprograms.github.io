@@ -36,10 +36,10 @@
   --menu-text-color: #b2b2b2;
   --list-item-hover: #2c2c2c;
   --list-item-select: #5a5a5a;
-  --input-bg: #FFFFFF;
-  --input-text-color: #FFFFFF;
-  --input-placeholder-color: #FFFFFF;
-  --select-input-color: #FFFFFF;
+  --input-bg: #e0e0e0;
+  --input-text-color: #333;
+  --input-placeholder-color: #444;
+  --select-input-color: #363636;
   --textarea-radius: 22px;
   --checkbox-border-checked: transparent;
   --checkbox-border-unchecked: var(--menu-border-color);
@@ -151,8 +151,6 @@ a,
   right: -2px;
   background-color: var(--alt-accent);
   border-color: var(--sidebar-color) !important; }
-
-
 
 .search-l1Wz-Q {
   margin: 0 8px 0 6px; }

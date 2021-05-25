@@ -147,7 +147,11 @@ a,
     opacity: 1; }
 
 .iconBadge-2dji3k {
-  logo: url("https://goldenlys.github.io/ThemeGen/img/ELYSIA.gif");
+   top: -4px;
+  right: -2px;
+  background-color: var(--alt-accent);
+  border-color: var(--sidebar-color) !important; }
+
 
 
 .search-l1Wz-Q {

@@ -37,7 +37,7 @@
   --list-item-hover: #2c2c2c;
   --list-item-select: #5a5a5a;
   --input-bg: #e0e0e0;
-  --input-text-color: #333;
+  --input-text-color: #FFFFFF;
   --input-placeholder-color: #444;
   --select-input-color: #363636;
   --textarea-radius: 22px;

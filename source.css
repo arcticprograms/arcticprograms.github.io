@@ -36,10 +36,10 @@
   --menu-text-color: #b2b2b2;
   --list-item-hover: #2c2c2c;
   --list-item-select: #5a5a5a;
-  --input-bg: #e0e0e0;
+  --input-bg: #FFFFFF;
   --input-text-color: #FFFFFF;
   --input-placeholder-color: #444;
-  --select-input-color: #363636;
+  --select-input-color: #FFFFFF;
   --textarea-radius: 22px;
   --checkbox-border-checked: transparent;
   --checkbox-border-unchecked: var(--menu-border-color);
